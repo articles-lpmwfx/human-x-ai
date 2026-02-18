@@ -221,8 +221,10 @@ And yes—it works.
 ---
 
 **Also available as:**
-[HTML](https://human-x-ai.lpmwfx.com) |
+[HTML (.com)](https://human-x-ai.lpmwfx.com) |
+[HTML (.eu)](https://human-x-ai.lpmwfx.eu) |
 [PDF](https://github.com/articles-lpmwfx/human-x-ai/releases/latest) |
-[Repository](https://github.com/articles-lpmwfx/human-x-ai) |
+[GitHub](https://github.com/articles-lpmwfx/human-x-ai) |
+[Codeberg](https://codeberg.org/Articles-lpmwfx/human-x-ai) |
 [SHA256](https://github.com/articles-lpmwfx/human-x-ai/blob/main/SHA256SUMS) |
-[Feedback](https://github.com/articles-lpmwfx/human-x-ai/issues)
+[Feedback](https://codeberg.org/Articles-lpmwfx/human-x-ai/issues)
